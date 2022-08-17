@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![AppIcon](https://user-images.githubusercontent.com/98317639/185251678-f03e850c-e89b-4b1a-a484-190341a55920.png)
+                                    (APP ICON)
 
 ![1](https://user-images.githubusercontent.com/98317639/185251696-2c199864-18d9-4a5d-b385-f11acc6899db.PNG)
 
