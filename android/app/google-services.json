@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443301688483",
+    "firebase_url": "https://quizapp-2284c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "quizapp-2284c",
+    "storage_bucket": "quizapp-2284c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443301688483:android:9376dc1b919f3da4f97b16",
+        "android_client_info": {
+          "package_name": "com.ornek.general_culture_quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443301688483-mamcpqkiud9htr6vivognal1c3kong66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexdYoG0Odu4XZDwxJOUezrW6aczHkI2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443301688483-mamcpqkiud9htr6vivognal1c3kong66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
